@@ -17,7 +17,7 @@
 // Converting unordered array into heap , we use heapify down (starting from leaf-1 index to 0th index)
 	
 import java.util.*;
-class Main {
+class Heap {
     public static void main(String[] args) {
         System.out.println("Try programiz.pro");
         // TODO : Implement min heap
